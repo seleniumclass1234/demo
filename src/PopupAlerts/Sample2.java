@@ -12,7 +12,8 @@ public class Sample2 {
 			
 		}
 		System.out.println(fact);
-		// TODO Auto-generated method stub
+		System.out.println("hiiiiiiiiiiiiii factorial");
+		
 
 	}
 
